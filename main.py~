@@ -19,7 +19,5 @@ def factorial(number):
 # result = 2*3 = 6
 # result = 6*4 = 24
 # result = 24*5 = 120
-# return = 120*6 = 720
-# return = 720*7 = 5040
 
 print(factorial(7))
